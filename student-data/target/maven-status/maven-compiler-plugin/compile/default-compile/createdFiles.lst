@@ -1,0 +1,9 @@
+com\student\data\controller\StudentController.class
+com\student\data\service\StudentService.class
+com\student\data\model\Department.class
+com\student\data\StudentDataApplication.class
+com\student\data\model\Student.class
+com\student\data\service\DepartmentService.class
+com\student\data\dao\DepartmentRepository.class
+com\student\data\dao\StudentRepository.class
+com\student\data\controller\DepartmentController.class

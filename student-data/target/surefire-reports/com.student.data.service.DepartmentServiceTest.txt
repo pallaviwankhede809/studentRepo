@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.student.data.service.DepartmentServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.049 s - in com.student.data.service.DepartmentServiceTest
